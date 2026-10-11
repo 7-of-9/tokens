@@ -313,6 +313,14 @@
    "date": "2026-10-09",
    "totalTokens": 96031139,
    "observedAt": "2026-10-10T09:03:59Z"
+  },
+  {
+   "provider": "openai",
+   "source": "codex",
+   "acct": "a_e6a9ea7f544a95da",
+   "date": "2026-10-11",
+   "totalTokens": 72258853,
+   "observedAt": "2026-10-11T18:59:00Z"
   }
  ],
  "ledgerCols": [
