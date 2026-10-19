@@ -345,6 +345,14 @@
    "date": "2026-10-15",
    "totalTokens": 20895384,
    "observedAt": "2026-10-16T06:44:33Z"
+  },
+  {
+   "provider": "openai",
+   "source": "codex",
+   "acct": "a_e6a9ea7f544a95da",
+   "date": "2026-10-18",
+   "totalTokens": 21452635,
+   "observedAt": "2026-10-19T00:42:29Z"
   }
  ],
  "ledgerCols": [
