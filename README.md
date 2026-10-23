@@ -12,7 +12,10 @@ static dashboard that GitHub Pages serves from it.
   and quota meters only: no prompts, code, file paths, hostnames or account
   emails are ever published.
 - `site/` is the dashboard (plain HTML, CSS and JavaScript, no build step).
-- `.github/workflows/pages.yml` rebuilds and deploys it on every push.
+- `.github/workflows/pages.yml` deploys it when `site/`, `tokenmaxr.json`,
+  `scripts/` or the workflow change, and hourly when anything changed. The
+  dashboard reads `data/` straight from this repository (public) once the
+  collectors commit `data/index.json`, so data commits need no deploy.
 - `tokenmaxr.json` marks this repository for the collector; set `title` there
   to rename the dashboard.
 
