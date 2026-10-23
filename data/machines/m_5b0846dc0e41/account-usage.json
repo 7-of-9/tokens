@@ -383,8 +383,16 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-22",
-   "totalTokens": 183834749,
-   "observedAt": "2026-10-23T02:11:06Z"
+   "totalTokens": 195904192,
+   "observedAt": "2026-10-23T11:44:24Z"
+  },
+  {
+   "provider": "openai",
+   "source": "codex",
+   "acct": "a_e6a9ea7f544a95da",
+   "date": "2026-10-23",
+   "totalTokens": 16225080,
+   "observedAt": "2026-10-23T11:44:24Z"
   }
  ],
  "ledgerCols": [
