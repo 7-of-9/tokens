@@ -3,9 +3,9 @@
  "id": "m_0994439856c0",
  "label": "BEAST",
  "os": "windows",
- "collector": "0.4.13",
- "updatedAt": "2026-10-24T20:48:06Z",
+ "collector": "0.4.16",
+ "updatedAt": "2026-10-24T21:48:15Z",
  "cc": "GB",
  "firstSeenAt": "2026-07-18",
- "lastEventAt": "2026-10-24T20:48:00Z"
+ "lastEventAt": "2026-10-24T21:47:00Z"
 }
