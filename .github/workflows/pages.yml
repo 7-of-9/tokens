@@ -25,7 +25,10 @@ name: dashboard
 on:
   push:
     branches: [main]
-    paths: ["site/**", "tokenmaxr.json", "scripts/**", ".github/workflows/pages.yml"]
+    # TEMPORARY (this repository only): data/** deploys on every push again
+    # until every collector runs 0.4.16+, which writes data/index.json so the
+    # live dashboard can read data/ without a deploy. Remove "data/**" then.
+    paths: ["data/**", "site/**", "tokenmaxr.json", "scripts/**", ".github/workflows/pages.yml"]
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
