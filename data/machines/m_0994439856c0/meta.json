@@ -3,8 +3,8 @@
  "id": "m_0994439856c0",
  "label": "BEAST",
  "os": "windows",
- "collector": "0.4.16",
- "updatedAt": "2026-10-26T02:07:37Z",
+ "collector": "0.4.17",
+ "updatedAt": "2026-10-26T03:08:33Z",
  "cc": "GB",
  "firstSeenAt": "2026-07-18",
  "lastEventAt": "2026-10-25T11:11:00Z"
