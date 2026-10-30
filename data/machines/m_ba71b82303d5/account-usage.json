@@ -439,8 +439,8 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-29",
-   "totalTokens": 1120286630,
-   "observedAt": "2026-10-29T20:14:33Z"
+   "totalTokens": 1963597167,
+   "observedAt": "2026-10-30T04:13:18Z"
   }
  ],
  "ledgerCols": [
@@ -492,6 +492,13 @@
    "codex",
    "a_e6a9ea7f544a95da",
    4926844
+  ],
+  [
+   "2026-10-30",
+   "openai",
+   "codex",
+   "a_e6a9ea7f544a95da",
+   86329
   ]
  ],
  "unledgered": [
