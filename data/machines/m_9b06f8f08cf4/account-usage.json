@@ -87,64 +87,64 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-08-31",
-   "totalTokens": 1288859062,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 1288109449,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-01",
-   "totalTokens": 1206774207,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 1206299321,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-02",
-   "totalTokens": 798733197,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 798334830,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-03",
-   "totalTokens": 333910898,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 333411991,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-04",
-   "totalTokens": 23655449,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 23397570,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-05",
-   "totalTokens": 699589266,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 699102802,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-06",
-   "totalTokens": 144366108,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 144139573,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-07",
-   "totalTokens": 2255939,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 1985615,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -159,16 +159,16 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-09",
-   "totalTokens": 3689016,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 3528155,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-09-10",
-   "totalTokens": 274992273,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 274880662,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -263,8 +263,8 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-01",
-   "totalTokens": 95328398,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 94158032,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -279,8 +279,8 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-03",
-   "totalTokens": 257179234,
-   "observedAt": "2026-10-05T01:37:27Z"
+   "totalTokens": 256312494,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -311,16 +311,16 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-09",
-   "totalTokens": 96031139,
-   "observedAt": "2026-10-10T09:23:07Z"
+   "totalTokens": 94906852,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-11",
-   "totalTokens": 83526622,
-   "observedAt": "2026-10-12T10:54:28Z"
+   "totalTokens": 82273824,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -335,24 +335,24 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-14",
-   "totalTokens": 13204708,
-   "observedAt": "2026-10-15T01:28:42Z"
+   "totalTokens": 11696491,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-15",
-   "totalTokens": 20895384,
-   "observedAt": "2026-10-16T05:44:44Z"
+   "totalTokens": 19559433,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-18",
-   "totalTokens": 21452635,
-   "observedAt": "2026-10-19T00:21:19Z"
+   "totalTokens": 19827729,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -367,8 +367,8 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-20",
-   "totalTokens": 794356909,
-   "observedAt": "2026-10-21T05:40:17Z"
+   "totalTokens": 793305889,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -383,8 +383,8 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-22",
-   "totalTokens": 195904192,
-   "observedAt": "2026-10-23T11:43:21Z"
+   "totalTokens": 193668042,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
@@ -423,24 +423,24 @@
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-27",
-   "totalTokens": 93940221,
-   "observedAt": "2026-10-28T00:44:25Z"
+   "totalTokens": 92819326,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-28",
-   "totalTokens": 102201271,
-   "observedAt": "2026-10-29T01:58:02Z"
+   "totalTokens": 101082292,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
    "source": "codex",
    "acct": "a_e6a9ea7f544a95da",
    "date": "2026-10-29",
-   "totalTokens": 2832321576,
-   "observedAt": "2026-10-30T09:22:20Z"
+   "totalTokens": 2831875958,
+   "observedAt": "2026-10-31T02:38:12Z"
   },
   {
    "provider": "openai",
