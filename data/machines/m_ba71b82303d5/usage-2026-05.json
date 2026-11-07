@@ -1,0 +1,43 @@
+{
+ "schema": 2,
+ "machine": "m_ba71b82303d5",
+ "month": "2026-05",
+ "cols": [
+  "date",
+  "provider",
+  "source",
+  "model",
+  "acct",
+  "q",
+  "in",
+  "cacheW",
+  "cacheW1h",
+  "cacheR",
+  "out",
+  "reasoning",
+  "events",
+  "prompts",
+  "promptsNoUsage",
+  "modelPrompts"
+ ],
+ "rows": [
+  [
+   "2026-05-03",
+   "anthropic",
+   "claude-code",
+   "",
+   "a_1ff721c8a5099060",
+   "",
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   12,
+   12,
+   12
+  ]
+ ]
+}
