@@ -1743,8 +1743,16 @@
    "source": "codex",
    "acct": "a_2107843ac813fa4b",
    "date": "2026-11-27",
-   "totalTokens": 6517690,
-   "observedAt": "2026-11-27T22:02:39Z"
+   "totalTokens": 14950502,
+   "observedAt": "2026-11-28T14:07:07Z"
+  },
+  {
+   "provider": "openai",
+   "source": "codex",
+   "acct": "a_2107843ac813fa4b",
+   "date": "2026-11-28",
+   "totalTokens": 1879918,
+   "observedAt": "2026-11-28T14:07:07Z"
   }
  ],
  "ledgerCols": [
